@@ -1,5 +1,5 @@
-## Brute-force Sudoku Solver
-## Author- Dinesh Mendhe
+### Brute-force Sudoku Solver
+### Author- Dinesh Mendhe
 
 ###1. List of the Data types for Sudoku Solver.
 	** Inbuilt Data types which we may need or proposed representation
