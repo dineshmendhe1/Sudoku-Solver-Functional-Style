@@ -2,13 +2,13 @@
 ### Author- Dinesh Mendhe
 
 ###1. List of the Data types for Sudoku Solver.
-	** Inbuilt Data types which we may need or proposed representation
+	** Inbuilt Data types which we will use.
 	 a. Data List
 	 b. Data Array
 	 c. Data Char
 	 d. Data Int
 	 
-	** New Data types that we may need
+	** New Data types.
 	 a. Grid
 	 b. Value
 	 c. Board
